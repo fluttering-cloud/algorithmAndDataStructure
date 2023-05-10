@@ -14,4 +14,9 @@ public class Main {
     public int getNum(){
         return 0;
     }
+
+    // 写了一个非常酷的函数
+    public void veryCool(){
+        System.out.println("it is so cool");
+    }
 }
