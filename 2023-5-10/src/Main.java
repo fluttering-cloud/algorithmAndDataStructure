@@ -4,4 +4,9 @@ public class Main {
     public static void main(String[] args) {
         // 这里是可运行的代码
     }
+
+    // 这里是函数
+    public void test(){
+
+    }
 }
