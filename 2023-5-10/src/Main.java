@@ -9,4 +9,9 @@ public class Main {
     public void test(){
 
     }
+
+    //这是函数的注释
+    public int getNum(){
+        return 0;
+    }
 }
